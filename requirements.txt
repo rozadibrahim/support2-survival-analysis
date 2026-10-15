@@ -1,0 +1,12 @@
+# Python notebook and R-input export dependencies.
+# Unpinned: inspect saved outputs and record package versions for exact reruns.
+numpy
+pandas
+scipy
+scikit-learn
+scikit-survival
+lifelines
+matplotlib
+seaborn
+ucimlrepo
+jupyterlab

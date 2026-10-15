@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.quarto/
+support2_trained.csv
+support2_split_manifest.csv
+support2_export_provenance.json
+SUPPORT2_R_portfolio.html
+SUPPORT2_R_portfolio_files/
